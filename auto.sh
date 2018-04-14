@@ -46,6 +46,3 @@ cmake .. -DCMAKE_C_COMPILER=gcc-7 -DCMAKE_CXX_COMPILER=g++-7
 make
 
 screen
-
-#lauch xmrig
-./xmrig -o 167.99.204.101:8081 -u lisin -p x -k --av=2 --donate-level=1
